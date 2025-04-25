@@ -1,27 +1,27 @@
 <?php 
 
 //Lab 2: Arrays
-// echo "Tijabo";
+echo "Tijabo";
 
 
-// $name = array("yasir" , "Qare" , "khalid");
-// var_dump($name);
-// echo "<br>";
+$name = array("yasir" , "Qare" , "khalid");
+var_dump($name);
+echo "<br>";
 
-// echo "second Name: ". $name[1]. "<br>";
+echo "second Name: ". $name[1]. "<br>";
 
-// $name[1] = "khalid";
-// var_dump($name);
-// echo "<br>";
+$name[1] = "khalid";
+var_dump($name);
+echo "<br>";
 
 
 //Lab 2: String Function
 
-// echo "string length:" . strlen("Abdulaahi  axmed"). "<br>";
-// echo "Word  count:" . str_word_count("Abdulaahi  axmed  qare"). "<br>";
-// echo "Reversed:" . strrev("Abdulaahi  axmed"). "<br>";
-// echo "Position of qare:" . strpos("Abdulaahi  axmed bashir", "Qare"). "<br>";
-// echo "Replace:" . str_replace("Abdulaahi", "ahmed", "najib ali"). "<br>";
+echo "string length:" . strlen("Abdulaahi  axmed"). "<br>";
+echo "Word  count:" . str_word_count("Abdulaahi  axmed  qare"). "<br>";
+echo "Reversed:" . strrev("Abdulaahi  axmed"). "<br>";
+echo "Position of qare:" . strpos("Abdulaahi  axmed bashir", "Qare"). "<br>";
+echo "Replace:" . str_replace("Abdulaahi", "ahmed", "najib ali"). "<br>";
 
 
 
